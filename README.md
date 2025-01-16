@@ -20,7 +20,7 @@ git clone -b fun-fact-generator --single-branch https://github.com/ethicks-x/Py-
 get into the code folder
 
 ```
-cd fun-fact-generator
+cd Py-Proj
 ```
 
 Build the Dockerfile
@@ -48,7 +48,7 @@ git clone -b fun-fact-generator --single-branch https://github.com/ethicks-x/Py-
 Get into the code folder
 
 ```
-cd fun-fact-generator
+cd Py-Proj
 ```
 
 Fire up a virtual environment
